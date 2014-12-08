@@ -1,4 +1,4 @@
-# for test
+# parallel version of EM algorithm
 
 def test():
 	print "Hello"
